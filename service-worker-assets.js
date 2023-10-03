@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-ACw9+QuC9XPyPf9r9r+UMvnuhABhKy\/7Xx+YQSd1w0Q=",
+      "hash": "sha256-d1QztbYMtoei3icqpsnTrwP2ENyf9tOmGROMtAZTL6o=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -41,7 +41,7 @@
       "url": "_framework\/Gaas.GobbletGobblers.Application.dll"
     },
     {
-      "hash": "sha256-+9zPsgVLqSMNM3AdfXQcuZqkzPOuYCVuUUa3ozGMDJ0=",
+      "hash": "sha256-EkjKBU839TuphZKdQY\/+HyaXGlvYe9qDJeQXt+lfcE8=",
       "url": "_framework\/Gaas.GobbletGobblers.Client.dll"
     },
     {
@@ -373,5 +373,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "V4k1jFxM"
+  "version": "h9LJ2rxj"
 };

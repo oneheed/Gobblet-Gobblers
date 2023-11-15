@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Gaas.GobbletGobblers.Client",
   "resources": {
-    "hash": "sha256-nx8VysBfyTc3tI1fRp/qwaYvaIeH4AUH0eCQo7R9atM=",
+    "hash": "sha256-WiXPJbwRqA9aG6aAj+zvjAdj2secmLI7Sj9B0uY85HM=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.45ykigla5r.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -17,9 +17,9 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Gaas.GobbletGobblers.Application.wasm": "sha256-WWjQRVl+Mf/qKsYlPB/KMKT2Qe7KNtyEbwxgIHABlIE=",
-      "Gaas.GobbletGobblers.Client.wasm": "sha256-fUpuUQxROj/9lnwkTs1XRETx2kVlFGLtFDaKz2yhM88=",
-      "Gaas.GobbletGobblers.Domain.wasm": "sha256-YLqQdnyH8AZEqKXaPy0RDd0aSE2aJ0AfrqvuA/FIdNY=",
+      "Gaas.GobbletGobblers.Application.wasm": "sha256-z5miLHtger9ahgk21tsaHUGRfiIxAAtNBJiXiP/1/jc=",
+      "Gaas.GobbletGobblers.Client.wasm": "sha256-09Jv96SNbMTM0efde2gR0h3K2ib3nx4i9/qDdIcSXCw=",
+      "Gaas.GobbletGobblers.Domain.wasm": "sha256-C4NvYd27BvD+DsJE6fkmof9SOGQxqd04sTXWKTb71/g=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-bmpk6h4a12lo90vos1rzPlnHNDei7sVlJ8ByJAOnOVU=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-7hFUluisz4z1LnbhchpH5mPqG4feXkbJ0DDi6hF0TEM=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-5/BT+UILvsfqfH9x8lnMbElcppmz9qVHk32dFTqD47Q=",

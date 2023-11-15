@@ -33,19 +33,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-OUo6E85nKATIF0mouvyvInufA2JQFO6SFc5nO4IZna0=",
+      "hash": "sha256-qMHcR72PfK\/FELX340t5VgegBBiQjSPZDaKg9vpT+T4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-WWjQRVl+Mf\/qKsYlPB\/KMKT2Qe7KNtyEbwxgIHABlIE=",
+      "hash": "sha256-z5miLHtger9ahgk21tsaHUGRfiIxAAtNBJiXiP\/1\/jc=",
       "url": "_framework\/Gaas.GobbletGobblers.Application.wasm"
     },
     {
-      "hash": "sha256-fUpuUQxROj\/9lnwkTs1XRETx2kVlFGLtFDaKz2yhM88=",
+      "hash": "sha256-09Jv96SNbMTM0efde2gR0h3K2ib3nx4i9\/qDdIcSXCw=",
       "url": "_framework\/Gaas.GobbletGobblers.Client.wasm"
     },
     {
-      "hash": "sha256-YLqQdnyH8AZEqKXaPy0RDd0aSE2aJ0AfrqvuA\/FIdNY=",
+      "hash": "sha256-C4NvYd27BvD+DsJE6fkmof9SOGQxqd04sTXWKTb71\/g=",
       "url": "_framework\/Gaas.GobbletGobblers.Domain.wasm"
     },
     {
@@ -353,5 +353,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "Fb5V4wkx"
+  "version": "kcUcQrxz"
 };

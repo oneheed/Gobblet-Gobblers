@@ -54,28 +54,3 @@
 <a href="https://github.com/Game-as-a-Service/Gobblet-Gobblers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Game-as-a-Service/Gobblet-Gobblers" />
 </a>
-
-
-=== "Python"
-```python title=""
-"""标题注释，用于标注函数、类、测试样例等"""
-
-# 内容注释，用于详解代码
-
-"""
-多行
-注释
-"""
-```
-
-=== "C++"
-```cpp title=""
-/* 标题注释，用于标注函数、类、测试样例等 */
-
-// 内容注释，用于详解代码
-
-/**
- * 多行
- * 注释
- */
-```
